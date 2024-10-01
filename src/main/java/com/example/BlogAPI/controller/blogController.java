@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.BlogAPI.model.Post;
 import com.example.BlogAPI.service.PostService;
 
-import org.hibernate.mapping.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 
